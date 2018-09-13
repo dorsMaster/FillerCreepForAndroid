@@ -2,16 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="13bbe14b-beca-4bcb-9375-eb1abf10397c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FillerCreepForAndroid.iml" afterPath="$PROJECT_DIR$/FillerCreepForAndroid.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/softwareprocess/fillercreep/BuildConfig.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/softwareprocess/fillercreep/BuildConfig.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/softwareprocess/fillercreep/FModel.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/softwareprocess/fillercreep/FModel.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/softwareprocess/fillercreep/FillerCreep.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/softwareprocess/fillercreep/FillerCreep.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/softwareprocess/fillercreep/FillerCreepActivity$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/softwareprocess/fillercreep/FillerCreepActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/softwareprocess/fillercreep/FillerCreepActivity$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/softwareprocess/fillercreep/FillerCreepActivity$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/softwareprocess/fillercreep/FillerCreepActivity$3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/softwareprocess/fillercreep/FillerCreepActivity$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/softwareprocess/fillercreep/FillerCreepActivity$4.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/softwareprocess/fillercreep/FillerCreepActivity$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/softwareprocess/fillercreep/FillerCreepActivity$5.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/softwareprocess/fillercreep/FillerCreepActivity$5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/softwareprocess/fillercreep/FillerCreepActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/softwareprocess/fillercreep/FillerCreepActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/softwareprocess/fillercreep/FillerCreepGraphicalGameActivity$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/softwareprocess/fillercreep/FillerCreepGraphicalGameActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/softwareprocess/fillercreep/FillerCreepGraphicalGameActivity$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/softwareprocess/fillercreep/FillerCreepGraphicalGameActivity$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/softwareprocess/fillercreep/FillerCreepGraphicalGameActivity$3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/softwareprocess/fillercreep/FillerCreepGraphicalGameActivity$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/softwareprocess/fillercreep/FillerCreepGraphicalGameActivity$4.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/softwareprocess/fillercreep/FillerCreepGraphicalGameActivity$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/softwareprocess/fillercreep/FillerCreepGraphicalGameActivity$5.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/softwareprocess/fillercreep/FillerCreepGraphicalGameActivity$5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/softwareprocess/fillercreep/FillerCreepGraphicalGameActivity$6.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/softwareprocess/fillercreep/FillerCreepGraphicalGameActivity$6.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/softwareprocess/fillercreep/FillerCreepGraphicalGameActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/softwareprocess/fillercreep/FillerCreepGraphicalGameActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/softwareprocess/fillercreep/FillerCreepGraphicalViewActivity$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/softwareprocess/fillercreep/FillerCreepGraphicalViewActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/softwareprocess/fillercreep/FillerCreepGraphicalViewActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/softwareprocess/fillercreep/FillerCreepGraphicalViewActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/softwareprocess/fillercreep/FillerCreepTextViewActivity$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/softwareprocess/fillercreep/FillerCreepTextViewActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/softwareprocess/fillercreep/FillerCreepTextViewActivity$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/softwareprocess/fillercreep/FillerCreepTextViewActivity$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/softwareprocess/fillercreep/FillerCreepTextViewActivity$3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/softwareprocess/fillercreep/FillerCreepTextViewActivity$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/softwareprocess/fillercreep/FillerCreepTextViewActivity$4.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/softwareprocess/fillercreep/FillerCreepTextViewActivity$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/softwareprocess/fillercreep/FillerCreepTextViewActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/softwareprocess/fillercreep/FillerCreepTextViewActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/softwareprocess/fillercreep/GameController.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/softwareprocess/fillercreep/GameController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/softwareprocess/fillercreep/GraphicalFillerCreepView.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/softwareprocess/fillercreep/GraphicalFillerCreepView.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/softwareprocess/fillercreep/R.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/softwareprocess/fillercreep/R.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local.properties" afterPath="$PROJECT_DIR$/local.properties" />
     </list>
     <ignored path="FillerCreepForAndroid.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -49,8 +74,10 @@
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-54">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding>
+                <marker date="1536799888000" expanded="true" signature="192:214" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -58,8 +85,8 @@
       <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="180">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -1812,6 +1839,9 @@
       <pane id="ProjectPane" />
     </panes>
   </component>
+  <component name="PropertiesComponent">
+    <property name="device.picker.selection" value="Pixel_XL_API_22" />
+  </component>
   <component name="RunManager" selected="Android App.app">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -1937,7 +1967,7 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="false" name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+    <configuration default="false" name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="app" />
       <option name="DEPLOY" value="true" />
       <option name="ARTIFACT_NAME" value="" />
@@ -2023,7 +2053,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="31" width="1922" height="1004" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31235433" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -2032,7 +2062,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32983682" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -2073,15 +2103,17 @@
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-54">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <marker date="1536799888000" expanded="true" signature="192:214" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state relative-caret-position="180">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
           <folding />
         </state>
       </provider>
